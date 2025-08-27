@@ -4,7 +4,7 @@
 </div>
 <img src="./images/banner-github.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ytt15&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="ytt15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiridihos&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="kiridihos" /> </p>
 
 
 ## Sobre mi <img src="./images/pikachu.gif" width="30">
