@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Diego Fino 👋</h1>
 </div>
-<img src="./images/unnamed.png">
+<img src="./images/assets_task_01k43ck5mtfk19wd3mjyrrraq3_1756755618_img_1.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiridihos&label=Profile%20views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="kiridihos" /> </p>
 
