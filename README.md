@@ -9,11 +9,11 @@
 
 ## Sobre mi <img src="./images/pikachu.gif" width="30">
 
-¡Bienvenido a mi rincón digital de descubrimiento y creación! Este es mi espacio dedicado a explorar los infinitos caminos del aprendizaje y la programación. Aquí encontrarás una colección de proyectos que reflejan mi pasión por los detalles, mi amor por convertir ideas en realidad y mi constante búsqueda de nuevas aventuras en el mundo del desarrollo. <b><i> Únete a mí mientras trazo mi propio camino en el vasto paisaje digital, compartiendo risas, conocimientos y el asombroso poder de la programación </i></b>
+¡Bienvenido a mi rincón digital de descubrimiento y creación! Este es mi espacio dedicado a explorar los infinitos caminos del aprendizaje y la programación. Aquí encontrarás una colección de proyectos que reflejan mi pasión por los detalles, mi amor por convertir ideas en realidad y mi constante búsqueda de nuevas aventuras en el mundo del desarrollo. <b><i> Únete a mí mientras trazo mi propio camino en el vasto paisaje digital, compartiendo risas, conocimientos y el asombroso poder de la programación</i></b>
 
-- 🔭  Actualmente trabajo en <b>Nexos Software SAS</b>
-- 📲  Backend Developer
-- 💬 Preguntame sobre <b>Java, Spring Boot, Spring Framework, AWS</b>
+- 🔭  Actualmente trabajo en <b>Thomas Processing & Systems SAS</b>
+- 📲  QA Automation
+- 💬 Preguntame sobre <b>Java, Spring Boot, Spring Framework, AWS, Docker, Cypress, Jmeter, Python</b>
   
 
 <!--- snake -->
@@ -32,14 +32,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ytt15&theme=radical&show_icons=true&count_private=true&locale=es" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kiridihos&theme=radical&show_icons=true&count_private=true&locale=es" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ytt15&theme=radical&hide_border=false&locale=es" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiridihos&theme=radical&hide_border=false&locale=es" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytt15&layout=donut-vertical&theme=radical&locale=es"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiridihos&layout=donut-vertical&theme=radical&locale=es"/>
   
   </td>
 </tr>
@@ -49,7 +49,7 @@
 <!--- trophy (start) -->
 <div align=center>
     <div>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ytt15&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Kiridihos&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </div>
 </div>
 <!--- trophy (start) -->
@@ -63,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,azure,express,figma,firebase,github,html,js,materialui,mongodb,mysql,nextjs,nodejs,bitbucket,dart,lit,php,spring,postman,react,angular,tailwind,vscode,vite&perline=14" />
+    <img src="[https://skillicons.dev/icons?i=git,aws,css,discord,docker,azure,figma,firebase,github,html,js,materialui,mongodb,mysql,postgres,nextjs,nodejs,bitbucket,dart,flutter,spring,postman,react,angular,tailwind,vscode,intellijidea,vite&perline=14](https://skillicons.dev/icons?i=git,npm,aws,css,docker,azure,figma,firebase,github,html,ubuntu,js,nginx,linux,md,latex,maven,windows,mysql,postgres,kali,nextjs,eclipse,heroku,idea,graphql,nodejs,gcp,bitbucket,bots,dart,flutter,debian,spring,postman,react,angular,tailwind,vscode,bash,cypress,vite&perline=14)" />
   </a>
 </p>
 
