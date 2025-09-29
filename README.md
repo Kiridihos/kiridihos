@@ -63,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,aws,css,discord,docker,azure,figma,firebase,github,html,js,materialui,mongodb,mysql,postgres,nextjs,nodejs,bitbucket,dart,flutter,spring,postman,react,angular,tailwind,vscode,intellijidea,vite&perline=14](https://skillicons.dev/icons?i=git,npm,aws,css,docker,azure,figma,firebase,github,html,ubuntu,js,nginx,linux,md,latex,maven,windows,mysql,postgres,kali,nextjs,eclipse,heroku,idea,graphql,nodejs,gcp,bitbucket,bots,dart,flutter,debian,spring,postman,react,angular,tailwind,vscode,bash,cypress,vite&perline=14)" />
+    <img src="https://skillicons.dev/icons?i=git,npm,aws,css,docker,azure,figma,firebase,github,html,ubuntu,js,nginx,linux,md,latex,maven,windows,mysql,postgres,kali,nextjs,eclipse,heroku,idea,graphql,nodejs,gcp,bitbucket,bots,dart,flutter,debian,spring,postman,react,angular,tailwind,vscode,bash,cypress,vite&perline=14" />
   </a>
 </p>
 
